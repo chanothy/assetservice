@@ -1,1 +1,1 @@
-create schema if not exists license
+create schema if not exists asset

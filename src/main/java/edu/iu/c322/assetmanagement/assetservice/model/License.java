@@ -1,4 +1,4 @@
-package edu.iu.c322.assetmanagement.licensingservice.model;
+package edu.iu.c322.assetmanagement.assetservice.model;
 
 import jakarta.persistence.*;
 

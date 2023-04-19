@@ -1,4 +1,4 @@
-package edu.iu.c322.assetmanagement.licensingservice.controller;
+package edu.iu.c322.assetmanagement.assetservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

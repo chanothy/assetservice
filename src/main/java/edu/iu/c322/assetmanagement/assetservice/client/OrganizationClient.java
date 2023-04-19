@@ -1,6 +1,6 @@
-package edu.iu.c322.assetmanagement.licensingservice.client;
+package edu.iu.c322.assetmanagement.assetservice.client;
 
-import edu.iu.c322.assetmanagement.licensingservice.model.Organization;
+import edu.iu.c322.assetmanagement.assetservice.model.Organization;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;

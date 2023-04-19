@@ -1,4 +1,4 @@
-package edu.iu.c322.assetmanagement.licensingservice;
+package edu.iu.c322.assetmanagement.assetservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class LicensingserviceApplication {
+public class AssetserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LicensingserviceApplication.class, args);
+		SpringApplication.run(AssetserviceApplication.class, args);
 	}
 
 	@LoadBalanced
